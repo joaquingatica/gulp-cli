@@ -241,3 +241,5 @@ MIT
 [coveralls-url]: https://coveralls.io/r/gulpjs/gulp-cli
 [coveralls-image]: https://img.shields.io/coveralls/gulpjs/gulp-cli.svg?style=flat-square
 <!-- prettier-ignore-end -->
+
+<!-- comment to test CI -->
